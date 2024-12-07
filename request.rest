@@ -1,0 +1,8 @@
+POST http://localhost:5002/api/auth/logout
+Content-Type: application/json
+
+{
+    "fullname" : "caleb",
+    "email" : "cas@g.com",
+    "password" : "123456"
+}
